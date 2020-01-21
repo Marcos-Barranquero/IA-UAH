@@ -1,0 +1,27 @@
+Origen:
+Oviedo
+Destino:
+Murcia
+(Oviedo Bilbao 304)
+(Bilbao Valladolid 280)
+(Bilbao Madrid 395)
+(Bilbao Zaragoza 324)
+(Valladolid Vigo 356)
+(Valladolid Coruna 455)
+(Valladolid Madrid 193)
+(Vigo Coruna 171)
+(Madrid Zaragoza 325)
+(Madrid Badajoz 403)
+(Madrid Jaen 335)
+(Madrid Albacete 251)
+(Zaragoza Barcelona 296)
+(Barcelona Gerona 100)
+(Barcelona Valencia 349)
+(Valencia Albacete 191)
+(Valencia Murcia 241)
+(Albacete Murcia 150)
+(Granada Murcia 278)
+(Jaen Granada 99)
+(Sevilla Jaen 242)
+(Sevilla Granada 256)
+(Sevilla Cadiz 125)
